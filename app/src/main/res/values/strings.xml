@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">StudyGit</string>
+    <string name="hello_world">Hello world !!!</string>
 </resources>
